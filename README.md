@@ -1,7 +1,7 @@
 # Python
 
 [![Python][2]]() 
-## asciinema 的视频演示
+## asciinema 的演示
 ### python2 & python3 的print 之不同
 #### 命令行演示
 [![asciicast][3]][4]
@@ -19,7 +19,8 @@
 
 `<a href="https://asciinema.org/a/14"><img src="https://asciinema.org/a/14.png" width="836"/></a>` 还可以
   设置 autuplay 选项
- 
+ ## asciinema的更多操作
+ [asciinema的doc][5]
 ![python][1]
 
 **data:**
@@ -30,3 +31,5 @@
 [2]:https://img.shields.io/badge/Python-3.6.1-brightgreen.svg
 [3]:https://asciinema.org/a/6m86rm0jwtrxotxpxyb2ico0c.png
 [4]:https://asciinema.org/a/6m86rm0jwtrxotxpxyb2ico0c
+[5]:https://asciinema.org/docs/
+
