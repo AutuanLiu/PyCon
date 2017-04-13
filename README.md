@@ -20,7 +20,8 @@
 `<a href="https://asciinema.org/a/14"><img src="https://asciinema.org/a/14.png" width="836"/></a>` 还可以
   设置 autuplay 选项
  ## asciinema的更多操作
- [asciinema的doc][5]
+ - **链接：** [asciinema的doc][5]
+ ## Python Logo
 ![python][1]
 
 **data:**
