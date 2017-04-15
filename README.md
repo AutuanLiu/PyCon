@@ -2,7 +2,7 @@
 
 [![Python][2]]() 
 ## asciinema 的演示
-### python2 & python3 的print 之不同
+### python2和python3 的print的使用
 #### 命令行演示
 [![asciicast][3]][4]
  
@@ -21,7 +21,7 @@
 
 `<a href="https://asciinema.org/a/14"><img src="https://asciinema.org/a/14.png" width="836"/></a>` 
 
-还可以设置 autuplay 选项
+还可以设置 autoplay 选项
  ## asciinema的更多操作
  - **链接：** [asciinema的doc][5]
  ## Python Logo
