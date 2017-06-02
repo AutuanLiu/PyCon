@@ -1,4 +1,4 @@
-# Python
+﻿# Python
 
 [![Python][2]]() 
 ## asciinema 的演示
@@ -31,7 +31,7 @@
 
 2017年4月10日
 
-[1]:https://github.com/AutuanLiu/Python/blob/master/img/timg.jpg
+[1]:https://github.com/AutuanLiu/Python/blob/master/img/python-logo.png
 [2]:https://img.shields.io/badge/Python-3.6.1-brightgreen.svg
 [3]:https://asciinema.org/a/6m86rm0jwtrxotxpxyb2ico0c.png
 [4]:https://asciinema.org/a/6m86rm0jwtrxotxpxyb2ico0c

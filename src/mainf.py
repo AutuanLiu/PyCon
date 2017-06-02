@@ -18,3 +18,5 @@ list1 = [2, 4, 5, 6]
 list2 = [g(x) for x in list1]
 print(list2)
 
+import pylab
+pylab.plot(range(10), 'o')
