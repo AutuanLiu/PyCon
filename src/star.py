@@ -19,3 +19,4 @@ for item in pattern:
 for star in p:
     sum += int(star)
     print(sum)
+    
