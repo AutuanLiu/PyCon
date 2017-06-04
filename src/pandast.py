@@ -21,3 +21,19 @@ print(d1)
 d2 = {"one": [1, 2, 3, 4], "two": [9, 8, 7, 6]}
 d3 = pd.DataFrame(d2, index = ['a', 'b', 'c', 'd'])
 print(d3)
+d4 = d3.drop(['a', 'b'])
+print(d4)
+b1 = pd.DataFrame(np.arange(12).reshape(3, 4))
+b2 = pd.DataFrame(np.arange(20).reshape(4, 5))
+print(b1, b2, b1 + b2)
+print(b1 * b2)
+print(b1/b2)
+print(b1.add(b2, fill_value = 100))
+
+
+
+
+
+
+
+
