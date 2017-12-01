@@ -4,7 +4,7 @@
 ## asciinema 的演示
 ### python2和python3 的print的使用
 #### 命令行演示
-[![asciicast][3]][4]
+`[![asciicast][3]][4]`
  
 ## asciinema 的语法说明
 - 外链
