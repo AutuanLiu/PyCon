@@ -1,5 +1,7 @@
 ﻿# Python
 
+[jupyter notebook 在这里](https://nbviewer.jupyter.org/github/AutuanLiu/PyCon/tree/master/)
+
 [![Python][2]]() 
 ## asciinema 的演示
 ### python2和python3 的print的使用
